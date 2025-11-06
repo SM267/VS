@@ -43,6 +43,7 @@ public class MoveElements {
         for(int i=0;i<a.length;i++){
             System.out.print(a[i]+" ");
         }
+        //another way to do so
        // System.out.println("Enter number of elements to be moved:");
        // int k=sc.nextInt();
        // for(int i=0;i<k;i++){
