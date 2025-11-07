@@ -15,6 +15,7 @@ class SecondLargest{
         return sl;
     }
 }
+//class selcetcion sort
 class SecondSmallest{
     public int findss(int[] arr){
         int ss=Integer.MAX_VALUE;
