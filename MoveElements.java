@@ -1,4 +1,3 @@
-import java.util.*;
 public class MoveElements {
     
     public static void me(int [] a){
