@@ -1,4 +1,4 @@
-public class MoveElements {
+//public class MoveElements {
     
     public static void me(int [] a){
         int temp=a[0];
